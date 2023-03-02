@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Viorel",
+    "age": 15,
+    "pokemons": [
+      {
+        "name": "Pikachu",
+        "hp": 35,
+        "normalAttack": 0,
+        "specialAttack": 4,
+        "defense": 2,
+        "specialDefense": 3,
+        "abilities": [
+          {
+            "dmg": 6,
+            "stun": false,
+            "dodge": false,
+            "cd": 4
+          },
+          {
+            "dmg": 4,
+            "stun": true,
+            "dodge": true,
+            "cd": 5
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Vesta",
+            "hp": 10,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Pelerina",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 3
+          }
+        ]
+      },
+      {
+        "name": "Charmander",
+        "hp": 50,
+        "normalAttack": 4,
+        "specialAttack": 0,
+        "defense": 3,
+        "specialDefense": 2,
+        "abilities": [
+          {
+            "dmg": 4,
+            "stun": true,
+            "dodge": false,
+            "cd": 4
+          },
+          {
+            "dmg":7,
+            "stun": false,
+            "dodge": false,
+            "cd": 6
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Bagheta Magica",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 3,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Vitamine ",
+            "hp": 2,
+            "attack": 2,
+            "specialAttack": 2,
+            "defense": 0,
+            "specialDefense": 0
+          }
+        ]
+      },
+      {
+        "name": "Vulpix",
+        "hp": 36,
+        "normalAttack": 5,
+        "specialAttack": 0,
+        "defense": 2,
+        "specialDefense": 4,
+        "abilities": [
+          {
+            "dmg": 8,
+            "stun": true,
+            "dodge": false,
+            "cd": 6
+          },
+          {
+            "dmg": 2,
+            "stun": false,
+            "dodge": true,
+            "cd": 7
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Brad de Craciun",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 1,
+            "specialDefense": 0
+          },
+          {
+            "name": "Sabiuta",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ion al Glanetasului",
+    "age": 40,
+    "pokemons": [
+      {
+        "name": "Squirtle",
+        "hp": 60,
+        "normalAttack": 0,
+        "specialAttack": 3,
+        "defense": 5,
+        "specialDefense": 5,
+        "abilities": [
+          {
+            "dmg": 4,
+            "stun": false,
+            "dodge": false,
+            "cd": 3
+          },
+          {
+            "dmg": 2,
+            "stun": true,
+            "dodge": false,
+            "cd": 2
+          }
+        ],
+        "items": [
+          {
+            "name": "Vesta",
+            "hp": 10,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Pelerina",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 3
+          }
+        ]
+      },
+      {
+        "name": "Psyduck",
+        "hp": 43,
+        "normalAttack": 3,
+        "specialAttack": 0,
+        "defense": 3,
+        "specialDefese": 3,
+        "abilities": [
+          {
+            "dmg": 2,
+            "stun": false,
+            "dodge": false,
+            "cd": 4
+          },
+          {
+            "dmg": 4,
+            "stun": true,
+            "dodge": false,
+            "cd": 5
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Vitamine",
+            "hp": 2,
+            "attack": 2,
+            "specialAttack": 2,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Pelerina",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 3
+          }
+        ]
+      },
+      {
+        "name": "Bulbasaur",
+        "hp": 42,
+        "normalAttack": 0,
+        "specialAttack": 5,
+        "defense": 3,
+        "specialDefese": 1,
+        "abilities": [
+          {
+            "dmg": 6,
+            "stun": false,
+            "dodge": false,
+            "cd": 4
+          },
+          {
+            "dmg": 5,
+            "stun": false,
+            "dodge": false,
+            "cd": 3
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Sabiuta",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Brad de Craciun",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 1,
+            "specialDefense": 0
+          }
+        ]
+      }
+    ]
+  }
+]
